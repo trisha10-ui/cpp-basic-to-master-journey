@@ -13,4 +13,8 @@ int main(){
 	for(int i=0;i<=2;i++){
 		cout<<arr[i]<<" ";
 	}		
+	return 0;
 	}
+
+//output:1 2 3
+	//9 2 3
